@@ -1,9 +1,10 @@
 ### Hi there 👋
 ねこ
 
+## Twitter
+[![Mikanixonable](https://pbs.twimg.com/profile_images/1503348060315058177/ysZmgkS4_400x400.jpg)](https://twitter.com/Mikanixonable)
 
-
-## Visit!
+## Visit
 
 [![人造日本人](https://mikanixonable.github.io/banner.png)](https://mikanixonable.github.io/)
 
