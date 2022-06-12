@@ -2,7 +2,7 @@
 ねこ
 
 ## Twitter
-[![Mikanixonable](https://pbs.twimg.com/profile_images/1503348060315058177/ysZmgkS4_400x400.jpg)](https://twitter.com/Mikanixonable)
+[![Mikanixonable]Twitter](https://twitter.com/Mikanixonable)
 
 ## Visit
 
