@@ -2,7 +2,7 @@
 ねこ
 
 ## Twitter
-[![Mikanixonable]Twitter](https://twitter.com/Mikanixonable)
+[Twitter](https://twitter.com/Mikanixonable)
 
 ## Visit
 
