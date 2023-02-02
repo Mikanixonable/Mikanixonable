@@ -1,11 +1,14 @@
 ### Hi there 👋
 ねこ
 
+
+## Misskey
+[Mikanixonable](https://misskey.io/@Mikanixonable)
+
 ## Twitter
 [Mikanixonable](https://twitter.com/Mikanixonable)
 
 ## Visit
-
 [![人造日本人](https://mikanixonable.github.io/banner.png)](https://mikanixonable.github.io/)
 
 ## 最近更新したページ
