@@ -1,5 +1,5 @@
 ### Hi there 👋
-AI生成カラーフォント(JidouKaisatsu A, B, C)
+AI生成カラーフォント(自動改札 A, B, C)[playground](https://mikanixonable.github.io/18)
 [![82](1.gif)](https://github.com/Mikanixonable/IgyouMincho/tree/main/ttf/color)
 
 
