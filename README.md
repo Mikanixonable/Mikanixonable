@@ -1,5 +1,6 @@
 ### Hi there 👋
-ねこ
+AI生成カラーフォント(JidouKaisatsu A, B, C)
+[![82](1.gif)](https://github.com/Mikanixonable/IgyouMincho/tree/main/ttf/color)
 
 
 ## Misskey
