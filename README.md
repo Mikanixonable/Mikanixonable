@@ -1,8 +1,10 @@
 ### Hi there 👋
-AI生成カラーフォント(自動改札 A, B, C)[playground](https://mikanixonable.github.io/18)
+AI生成カラーフォント自動改札 A, B, C
 [![82](1.gif)](https://github.com/Mikanixonable/IgyouMincho/tree/main/ttf/color)
 
-
+異形明朝
+[![82](2.png)](https://github.com/Mikanixonable/IgyouMincho/tree/main/ttf/IgyouMincho)
+[playground](https://mikanixonable.github.io/18)
 ## Misskey
 [Mikanixonable](https://misskey.io/@Mikanixonable)
 
