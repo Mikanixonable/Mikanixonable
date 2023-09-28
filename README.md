@@ -5,12 +5,11 @@
 [異形明朝](https://github.com/Mikanixonable/IgyouMincho/tree/main/ttf/IgyouMincho)
 ![](2.png)
 [playground](https://mikanixonable.github.io/18)
-## Misskey
-[Mikanixonable](https://misskey.io/@Mikanixonable)
-
-## Twitter
-[Mikanixonable](https://twitter.com/Mikanixonable)
-
+## Social
+[Misskey](https://misskey.io/@Mikanixonable)
+[Bluesky](https://bsky.app/profile/mikanixonable.bsky.social)
+[Twitter](https://twitter.com/Mikanixonable)
+[others...](https://bento.me/miku)
 ## Visit
 [![人造日本人](https://mikanixonable.github.io/banner.png)](https://mikanixonable.github.io/)
 
