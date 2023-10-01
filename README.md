@@ -18,7 +18,7 @@
 ### My House
 [![人造日本人](https://mikanixonable.github.io/banner.png)](https://mikanixonable.github.io/)
 
-#e## 最近更新したページ
+*** 最近更新したページ
 リーマンのフラクタル
 [![82](1.png)](https://mikanixonable.github.io/82)
 
