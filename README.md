@@ -1,6 +1,10 @@
 ## Saluton!
 > テクノなまこ、科学の力。
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mikanixonable&theme=github_dark&layout=compact
+)](https://github.com/anuraghazra/github-readme-stats)
+
+
 ### works
 - [AI生成カラーフォント自動改札 A, B, C](https://github.com/Mikanixonable/IgyouMincho/tree/main/ttf/color)
 ![](1.gif)
