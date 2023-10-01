@@ -1,7 +1,8 @@
 ## Saluton!
 > テクノなまこ、科学の力。
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mikanixonable&theme=github_dark&layout=compact
+> 
+[![Mikanixonable's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mikanixonable&theme=vue-dark)](https://github.com/Mikanixonable/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mikanixonable&theme=vue-dark&layout=compact
 )](https://github.com/anuraghazra/github-readme-stats)
 
 
