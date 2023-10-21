@@ -23,10 +23,6 @@
 ### My House
 [![人造日本人](https://mikanixonable.github.io/banner.png)](https://mikanixonable.github.io/)
 
-*** 最近更新したページ
-リーマンのフラクタル
-[![82](1.png)](https://mikanixonable.github.io/82)
-
 <!--
 **Mikanixonable/Mikanixonable** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
